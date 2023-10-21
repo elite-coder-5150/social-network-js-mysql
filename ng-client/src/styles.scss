@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+@import "assets/global-styles/vars.scss";
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;;
+}
+button {
+    border-radius: 8px;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.supportive-text {
+    color: $clr-primary;
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.page-header {
+    font-size: 60px;
+    text-transform: capitalize;
+}
+.sub-heading {
+    font-size: 20px;
+    color: $clr-body-copy;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    &:first-letter {
+        text-transform: capitalize;
+    }
+}
