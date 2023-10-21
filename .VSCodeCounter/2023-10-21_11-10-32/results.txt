@@ -1,0 +1,42 @@
+Date : 2023-10-21 11:10:32
+Directory : /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql
+Total : 10 files,  479 codes, 23 comments, 107 blanks, all 609 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| HTML       |          2 |        403 |         22 |         74 |        499 |
+| TypeScript |          5 |         62 |          0 |         17 |         79 |
+| Markdown   |          1 |         14 |          0 |         14 |         28 |
+| SCSS       |          2 |          0 |          1 |          2 |          3 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                       | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                          |         10 |        479 |         23 |        107 |        609 |
+| ng-client                                                                                                  |         10 |        479 |         23 |        107 |        609 |
+| ng-client (Files)                                                                                          |          1 |         14 |          0 |         14 |         28 |
+| ng-client/src                                                                                              |          9 |        465 |         23 |         93 |        581 |
+| ng-client/src (Files)                                                                                      |          3 |         17 |          1 |          6 |         24 |
+| ng-client/src/app                                                                                          |          6 |        448 |         22 |         87 |        557 |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                   | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/README.md                     | Markdown   |         14 |          0 |         14 |         28 |
+| /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app-routing.module.ts | TypeScript |          8 |          0 |          3 |         11 |
+| /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.html    | HTML       |        390 |         22 |         73 |        485 |
+| /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.scss    | SCSS       |          0 |          0 |          1 |          1 |
+| /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.spec.ts | TypeScript |         25 |          0 |          5 |         30 |
+| /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.ts      | TypeScript |          9 |          0 |          2 |         11 |
+| /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.module.ts         | TypeScript |         16 |          0 |          3 |         19 |
+| /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/index.html                | HTML       |         13 |          0 |          1 |         14 |
+| /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/main.ts                   | TypeScript |          4 |          0 |          4 |          8 |
+| /Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/styles.scss               | SCSS       |          0 |          1 |          1 |          2 |
+| Total                                                                                                      |            |        479 |         23 |        107 |        609 |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

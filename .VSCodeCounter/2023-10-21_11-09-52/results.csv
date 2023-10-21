@@ -1,0 +1,18 @@
+"filename", "language", "SCSS", "TypeScript", "HTML", "JSON", "JSON with Comments", "Markdown", "comment", "blank", "total"
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/README.md", "Markdown", 0, 0, 0, 0, 0, 14, 0, 14, 28
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/angular.json", "JSON", 0, 0, 0, 104, 0, 0, 0, 1, 105
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/package-lock.json", "JSON", 0, 0, 0, 12318, 0, 0, 0, 1, 12319
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/package.json", "JSON", 0, 0, 0, 38, 0, 0, 0, 1, 39
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app-routing.module.ts", "TypeScript", 0, 8, 0, 0, 0, 0, 0, 3, 11
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.html", "HTML", 0, 0, 390, 0, 0, 0, 22, 73, 485
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.spec.ts", "TypeScript", 0, 25, 0, 0, 0, 0, 0, 5, 30
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.ts", "TypeScript", 0, 9, 0, 0, 0, 0, 0, 2, 11
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.module.ts", "TypeScript", 0, 16, 0, 0, 0, 0, 0, 3, 19
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/index.html", "HTML", 0, 0, 13, 0, 0, 0, 0, 1, 14
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/main.ts", "TypeScript", 0, 4, 0, 0, 0, 0, 0, 4, 8
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 1, 1, 2
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/tsconfig.app.json", "JSON", 0, 0, 0, 13, 0, 0, 1, 1, 15
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 32, 0, 1, 1, 34
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/tsconfig.spec.json", "JSON", 0, 0, 0, 13, 0, 0, 1, 1, 15
+"Total", "-", 0, 62, 403, 12486, 32, 14, 26, 113, 13136

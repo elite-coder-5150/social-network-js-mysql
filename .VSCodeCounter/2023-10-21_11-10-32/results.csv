@@ -1,0 +1,12 @@
+"filename", "language", "TypeScript", "Markdown", "HTML", "SCSS", "comment", "blank", "total"
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/README.md", "Markdown", 0, 14, 0, 0, 0, 14, 28
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app-routing.module.ts", "TypeScript", 8, 0, 0, 0, 0, 3, 11
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.html", "HTML", 0, 0, 390, 0, 22, 73, 485
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.scss", "SCSS", 0, 0, 0, 0, 0, 1, 1
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.spec.ts", "TypeScript", 25, 0, 0, 0, 0, 5, 30
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.component.ts", "TypeScript", 9, 0, 0, 0, 0, 2, 11
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/app/app.module.ts", "TypeScript", 16, 0, 0, 0, 0, 3, 19
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/index.html", "HTML", 0, 0, 13, 0, 0, 1, 14
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/main.ts", "TypeScript", 4, 0, 0, 0, 0, 4, 8
+"/Users/darrellparkhouse/projects/html-scss/social-network-js-mysql/ng-client/src/styles.scss", "SCSS", 0, 0, 0, 0, 1, 1, 2
+"Total", "-", 62, 14, 403, 0, 23, 107, 609
