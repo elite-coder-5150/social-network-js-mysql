@@ -1,0 +1,39 @@
+@import "../../assets/global-styles/vars";
+.error {
+    padding-top: 96px;
+    max-width: 720px;
+    margin: 0 auto;
+
+    .btn-group {
+        display: flex;
+        column-gap: 20px;
+    }
+    .lg-secondary-btn {
+        border: 1px solid $clr-base-border;
+        background: $clr-light-bg;
+        padding: 18px 28px;
+        color: $clr-dark-text;
+        display: flex;
+        font-size: 18px;
+        line-height:  24px;
+        text-transform: capitalize;
+        .icon {
+            margin-right: 10px;
+        }
+        .back-icon {
+            background: url('../icons/arrow-left.svg') no-repeat;
+            width: 18px;
+            height: 18px;
+        }
+    }
+
+    .lg-primary-btn {
+        border: 1px solid $clr-primary;
+        background: $clr-primary;
+        padding: 18px 28px;
+        color: $clr-ligth-text;
+        font-size: 18px;
+        line-height:  24px;
+        text-transform: capitalize;
+    }
+}
